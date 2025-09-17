@@ -7,6 +7,7 @@ The main objective of this project is to analyze Zomato restaurant data across d
 
 
 Dashboard image:C:\Users\user\Downloads\restaurants-analysis-main
+github link:https://github.com/sahanacm/Data-Analysis-Dashboad2/blob/main/README.md
 
 The dataset likely contains restaurant-level data with the following fields (as seen in the dashboardRestaurant details: Name, City, CountryServices: Online Delivery (Yes/No), Table booking (Yes/No)Cuisines offeredRestaurant rating & votesYear of data collection
 Restaurant count by cuisine and city.
