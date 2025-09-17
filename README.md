@@ -6,7 +6,9 @@ Zomato Restaurants Analysis (spelled “analysys” in the dashboard).
 The main objective of this project is to analyze Zomato restaurant data across different countries and cities in order to understand: Restaurant distribution Availability of services (online delivery, table booking)Popular cuisinesRatings and votes distributionTrends in customer preferencesThis helps stakeholders (Zomato, restaurant owners, or analysts) make data-driven decisions about market performance and customer behavior
 
 
-Dashboard image:C:\Users\user\Downloads\restaurants-analysis-main
+Dashboard image:<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/1bc4b93d-190e-48e1-ad5c-cb995dcafd29" />
+
+
 github link:https://github.com/sahanacm/Data-Analysis-Dashboad2/blob/main/README.md
 
 The dataset likely contains restaurant-level data with the following fields (as seen in the dashboardRestaurant details: Name, City, CountryServices: Online Delivery (Yes/No), Table booking (Yes/No)Cuisines offeredRestaurant rating & votesYear of data collection
